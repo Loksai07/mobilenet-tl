@@ -32,3 +32,4 @@ if upload is not None:
       st.sidebar.title('%s (%.2f%%)' % (out[1], out[2]*100))
          
         
+        
