@@ -1,4 +1,4 @@
-git commit --allow-empty -m "test-new-python-runtime"
+
 git push heroku master
 tensorflow==2.0.0
 streamlit==0.71.0
