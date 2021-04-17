@@ -1,5 +1,3 @@
-
-git push heroku master
 tensorflow==2.0.0
 streamlit==0.71.0
 opencv-contrib-python-headless==4.4.0.46
